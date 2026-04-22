@@ -1,2 +1,7 @@
-# demo-odontologia-dentar-devoto
-Demo web para Odontologia Dentar Devoto — diseñada por eterlab.
+# Odontologia Dentar Devoto
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
